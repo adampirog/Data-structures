@@ -1,1 +1,5 @@
-Project on data structures. Array, List, Heap and Red-Black tree implemented
+# Implementation of data structures
+* Dynamic array
+* List
+* Heap
+* Red Black tree
